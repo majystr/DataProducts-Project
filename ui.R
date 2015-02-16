@@ -13,3 +13,4 @@ shinyUI(pageWithSidebar(
         plotOutput('plot')
     )
 ))
+
